@@ -1,6 +1,6 @@
 # NumPy-Tutorial
 NumPy Basics
-NumPy Tutorial
+
 
 Get started with NumPy, the library for efficient numerical computation in Python!
 
